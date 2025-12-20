@@ -1,7 +1,7 @@
 <!--<img src=""/> -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gxd.nlo.ovh/letmefly.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://lh3.googleusercontent.com/d/1CxmkEIUNft2h0cu214Zn1nLnWdO6cjIh">
   <source media="(prefers-color-scheme: light)" srcset="https://gxd.nlo.ovh/peonies.svg">
 </picture>
 <!--
