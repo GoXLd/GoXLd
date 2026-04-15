@@ -5,7 +5,18 @@
 ![](https://raw.githubusercontent.com/GoXLd/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/GoXLd/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-<p align="left"> <img src="https://GoXLd.github.io/simple-profile-readme-generator/assets/icons/Google_Apps_Script.svg" alt="appscript" width="40" height="40"/> <img src="https://GoXLd.github.io/simple-profile-readme-generator/assets/icons/ProgrammingLanguages/javascript.svg" alt="javascript" width="40" height="40"/> <img src="https://GoXLd.github.io/simple-profile-readme-generator/assets/icons/ProgrammingLanguages/typescript.svg" alt="typescript" width="40" height="40"/> <img src="https://GoXLd.github.io/simple-profile-readme-generator/assets/icons/BackendDevelopment/nodejs.svg" alt="nodejs" width="40" height="40"/> <img src="https://GoXLd.github.io/simple-profile-readme-generator/assets/icons/Database/postgresql.svg" alt="postgresql" width="40" height="40"/> <img src="https://GoXLd.github.io/simple-profile-readme-generator/assets/icons/FrontendDevelopment/reactjs.svg" alt="react" width="40" height="40"/>  <img src="https://GoXLd.github.io/simple-profile-readme-generator/assets/icons/FrontendDevelopment/vuejs.svg" alt="vuejs" width="40" height="40"/> <img src="https://GoXLd.github.io/simple-profile-readme-generator/assets/icons/Other/linux.svg" alt="linux" width="40" height="40"/>
+<table>
+  <tr>
+    <td><img src="https://GoXLd.github.io/simple-profile-readme-generator/assets/icons/Google_Apps_Script.svg" alt="appscript" width="40" height="40"></td>
+    <td><img src="https://GoXLd.github.io/simple-profile-readme-generator/assets/icons/ProgrammingLanguages/javascript.svg" alt="javascript" width="40" height="40"></td>
+    <td><img src="https://GoXLd.github.io/simple-profile-readme-generator/assets/icons/ProgrammingLanguages/typescript.svg" alt="typescript" width="40" height="40"></td>
+    <td><img src="https://GoXLd.github.io/simple-profile-readme-generator/assets/icons/BackendDevelopment/nodejs.svg" alt="nodejs" width="40" height="40"></td>
+    <td><img src="https://GoXLd.github.io/simple-profile-readme-generator/assets/icons/Database/postgresql.svg" alt="postgresql" width="40" height="40"></td>
+    <td><img src="https://GoXLd.github.io/simple-profile-readme-generator/assets/icons/FrontendDevelopment/reactjs.svg" alt="react" width="40" height="40"></td>
+    <td><img src="https://GoXLd.github.io/simple-profile-readme-generator/assets/icons/FrontendDevelopment/vuejs.svg" alt="vuejs" width="40" height="40"></td>
+    <td><img src="https://GoXLd.github.io/simple-profile-readme-generator/assets/icons/Other/linux.svg" alt="linux" width="40" height="40"></td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://lh3.googleusercontent.com/d/1ylF7IbaBqvmdHmFROAmwMAr1JnBekd7Q">
