@@ -1,7 +1,5 @@
 [![committers.top badge](https://user-badge.committers.top/france_private/GoXLd.svg)](https://user-badge.committers.top/france_private/GoXLd) ![](https://komarev.com/ghpvc/?username=GoXLd&abbreviated=true)
 
-![](https://raw.githubusercontent.com/GoXLd/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/GoXLd/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/GoXLd/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/GoXLd/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
