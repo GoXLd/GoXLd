@@ -6,8 +6,12 @@ goxld@linux.com
 </pre>
 </div>
 
-![](https://raw.githubusercontent.com/GoXLd/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/GoXLd/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<!-- ![](https://raw.githubusercontent.com/GoXLd/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
+<!-- ![](https://raw.githubusercontent.com/GoXLd/github-stats/master/generated/languages.svg#gh-light-mode-only) -->
+![](https://raw.githubusercontent.com/GoXLd/github-stats-2/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/GoXLd/github-stats-2/generated/languages.svg#gh-light-mode-only)
+![](https://github.com/GoXLd/github-stats-2/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/GoXLd/github-stats-2/blob/generated/overview.svg#gh-light-mode-only)
 
 <table>
   <tr>
