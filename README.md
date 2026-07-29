@@ -25,9 +25,7 @@
     <td><img width="50" height="50" alt="vuejs" src="https://github.com/user-attachments/assets/e4e7c9ec-39b8-4dfa-8ab7-145c77c783e1" /></td>
   </tr>
 </table>
-<div align="center">
-  <sub>Technology Engineer · Secure Infrastructure Administrator · Cisco CCNA</sub>
-</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://lh3.googleusercontent.com/d/1ylF7IbaBqvmdHmFROAmwMAr1JnBekd7Q">
   <source media="(prefers-color-scheme: light)" srcset="https://lh3.googleusercontent.com/d/1Lfs3T5m_jc5NFzqZs1bG70HfAQ3Nu49f">
